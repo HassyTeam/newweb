@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { Outfit } from "next/font/google";
 import "./globals.css";
+import { cookies } from "next/headers";
+import { RequestCookie } from "next/dist/compiled/@edge-runtime/cookies";
 
 const outfit = Outfit({ subsets: ["latin"] });
 
@@ -14,9 +16,14 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const theme = cookies().get("theme")?.value;
+  console.log(theme)
+
   return (
     <html lang="en">
-      <body className={outfit.className + " dark"}>{children}</body>
+      <body className={outfit.className + " " + theme}>
+        {children}
+      </body>
     </html>
   );
 }
