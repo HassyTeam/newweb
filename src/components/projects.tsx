@@ -20,21 +20,22 @@ export default function Projects() {
                         {
                             type: "Demo",
                             title: "Paneeli",
-                            description: "Axsoterin paneeli on erittäin tehokas ja helppokäyttöinen. Paneeli näyttää reaaliajassa tietoja palvelimen resurssien kulutuksesta.",
+                            description: "Axsoterin paneeli on e",
+                            image: "url('/img/00094888.jpg')",
                             link: "https://example.com",
                             linklabel: "Text"
                         },
                         {
                             type: "Demo",
                             title: "Paneeli",
-                            description: "Axsoterin paneeli on erittäin tehokas ja helppokäyttöinen. Paneeli näyttää reaaliajassa tietoja palvelimen resurssien kulutuksesta.",
+                            description: "Axsoterin paneeli on e",
+                            image: "url('/img/00094888.jpg')",
                             link: "https://example.com",
                             linklabel: "Text"
                         }
                     ].map((feature, index) => (
-                        <div className="bg-assy23 rounded-xl bg-center bg-no-repeat">
-                            
-                            <div className="space-y-4 glass p-4 transition duration-500 hover:scale-110 h-full">
+                        <div className="bg-center bg-no-repeat bg-cover rounded-xl transition duration-500 hover:scale-110" style={{ backgroundImage: feature.image }} key={index}>
+                            <div className="space-y-4 glass w-full min-h-full flex flex-col items-center justify-center p-4">
                                 <span
                                 className="bg-gray-100 text-gray-900 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">
                                     {feature.type}

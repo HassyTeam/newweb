@@ -11,7 +11,7 @@ export default function ContactUs() {
                     <hr className="p-4" />
                     <div className="grid gap-8 lg:gap-16 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
                         <div className="glass p-6 transition duration-500 hover:scale-110 text-center text-gray-500 dark:text-gray-400">
-                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/a_359603c62a899bfd8f0e33728b9c9e10.gif?size=80" alt="pedropedropedropedrope" />
+                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/ef2fe1285680a4b217aee7f37ea22f09.webp?size=256" alt="pedropedropedropedrope" />
                             <h3 className="mb-1 text-2xl font-bold tracking-tight text-white">
                                 xilliam
                             </h3>
@@ -30,7 +30,7 @@ export default function ContactUs() {
                             </ul>
                         </div>
                         <div className="glass p-6 transition duration-500 hover:scale-110 text-center text-gray-500 dark:text-gray-400">
-                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/a_359603c62a899bfd8f0e33728b9c9e10.gif?size=80" alt="pedropedropedropedrope" />
+                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/ef2fe1285680a4b217aee7f37ea22f09.webp?size=256" alt="pedropedropedropedrope" />
                             <h3 className="mb-1 text-2xl font-bold tracking-tight text-white">
                                 xilliam
                             </h3>
@@ -49,7 +49,7 @@ export default function ContactUs() {
                             </ul>
                         </div>
                         <div className="glass p-6 transition duration-500 hover:scale-110 text-center text-gray-500 dark:text-gray-400">
-                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/a_359603c62a899bfd8f0e33728b9c9e10.gif?size=80" alt="pedropedropedropedrope" />
+                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/ef2fe1285680a4b217aee7f37ea22f09.webp?size=256" alt="pedropedropedropedrope" />
                             <h3 className="mb-1 text-2xl font-bold tracking-tight text-white">
                                 xilliam
                             </h3>
@@ -68,7 +68,7 @@ export default function ContactUs() {
                             </ul>
                         </div>
                         <div className="glass p-6 transition duration-500 hover:scale-110 text-center text-gray-500 dark:text-gray-400">
-                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/a_359603c62a899bfd8f0e33728b9c9e10.gif?size=80" alt="pedropedropedropedrope" />
+                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/ef2fe1285680a4b217aee7f37ea22f09.webp?size=256" alt="pedropedropedropedrope" />
                             <h3 className="mb-1 text-2xl font-bold tracking-tight text-white">
                                 xilliam
                             </h3>
@@ -87,7 +87,7 @@ export default function ContactUs() {
                             </ul>
                         </div>
                         <div className="glass p-6 transition duration-500 hover:scale-110 text-center text-gray-500 dark:text-gray-400">
-                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/a_359603c62a899bfd8f0e33728b9c9e10.gif?size=80" alt="pedropedropedropedrope" />
+                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/ef2fe1285680a4b217aee7f37ea22f09.webp?size=256" alt="pedropedropedropedrope" />
                             <h3 className="mb-1 text-2xl font-bold tracking-tight text-white">
                                 xilliam
                             </h3>
@@ -106,7 +106,7 @@ export default function ContactUs() {
                             </ul>
                         </div>
                         <div className="glass p-6 transition duration-500 hover:scale-110 text-center text-gray-500 dark:text-gray-400">
-                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/a_359603c62a899bfd8f0e33728b9c9e10.gif?size=80" alt="pedropedropedropedrope" />
+                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/ef2fe1285680a4b217aee7f37ea22f09.webp?size=256" alt="pedropedropedropedrope" />
                             <h3 className="mb-1 text-2xl font-bold tracking-tight text-white">
                                 xilliam
                             </h3>
@@ -125,7 +125,7 @@ export default function ContactUs() {
                             </ul>
                         </div>
                         <div className="glass p-6 transition duration-500 hover:scale-110 text-center text-gray-500 dark:text-gray-400">
-                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/a_359603c62a899bfd8f0e33728b9c9e10.gif?size=80" alt="pedropedropedropedrope" />
+                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/ef2fe1285680a4b217aee7f37ea22f09.webp?size=256" alt="pedropedropedropedrope" />
                             <h3 className="mb-1 text-2xl font-bold tracking-tight text-white">
                                 xilliam
                             </h3>
@@ -144,7 +144,7 @@ export default function ContactUs() {
                             </ul>
                         </div>
                         <div className="glass p-6 transition duration-500 hover:scale-110 text-center text-gray-500 dark:text-gray-400">
-                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/a_359603c62a899bfd8f0e33728b9c9e10.gif?size=80" alt="pedropedropedropedrope" />
+                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/ef2fe1285680a4b217aee7f37ea22f09.webp?size=256" alt="pedropedropedropedrope" />
                             <h3 className="mb-1 text-2xl font-bold tracking-tight text-white">
                                 xilliam
                             </h3>
@@ -163,7 +163,7 @@ export default function ContactUs() {
                             </ul>
                         </div>
                         <div className="glass p-6 transition duration-500 hover:scale-110 text-center text-gray-500 dark:text-gray-400">
-                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/a_359603c62a899bfd8f0e33728b9c9e10.gif?size=80" alt="pedropedropedropedrope" />
+                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/ef2fe1285680a4b217aee7f37ea22f09.webp?size=256" alt="pedropedropedropedrope" />
                             <h3 className="mb-1 text-2xl font-bold tracking-tight text-white">
                                 xilliam
                             </h3>
@@ -182,7 +182,7 @@ export default function ContactUs() {
                             </ul>
                         </div>
                         <div className="glass p-6 transition duration-500 hover:scale-110 text-center text-gray-500 dark:text-gray-400">
-                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/a_359603c62a899bfd8f0e33728b9c9e10.gif?size=80" alt="pedropedropedropedrope" />
+                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/ef2fe1285680a4b217aee7f37ea22f09.webp?size=256" alt="pedropedropedropedrope" />
                             <h3 className="mb-1 text-2xl font-bold tracking-tight text-white">
                                 xilliam
                             </h3>
@@ -201,7 +201,7 @@ export default function ContactUs() {
                             </ul>
                         </div>
                         <div className="glass p-6 transition duration-500 hover:scale-110 text-center text-gray-500 dark:text-gray-400">
-                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/a_359603c62a899bfd8f0e33728b9c9e10.gif?size=80" alt="pedropedropedropedrope" />
+                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/ef2fe1285680a4b217aee7f37ea22f09.webp?size=256" alt="pedropedropedropedrope" />
                             <h3 className="mb-1 text-2xl font-bold tracking-tight text-white">
                                 xilliam
                             </h3>
@@ -220,7 +220,7 @@ export default function ContactUs() {
                             </ul>
                         </div>
                         <div className="glass p-6 transition duration-500 hover:scale-110 text-center text-gray-500 dark:text-gray-400">
-                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/a_359603c62a899bfd8f0e33728b9c9e10.gif?size=80" alt="pedropedropedropedrope" />
+                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/ef2fe1285680a4b217aee7f37ea22f09.webp?size=256" alt="pedropedropedropedrope" />
                             <h3 className="mb-1 text-2xl font-bold tracking-tight text-white">
                                 xilliam
                             </h3>
@@ -239,7 +239,7 @@ export default function ContactUs() {
                             </ul>
                         </div>
                         <div className="glass p-6 transition duration-500 hover:scale-110 text-center text-gray-500 dark:text-gray-400">
-                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/a_359603c62a899bfd8f0e33728b9c9e10.gif?size=80" alt="pedropedropedropedrope" />
+                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/ef2fe1285680a4b217aee7f37ea22f09.webp?size=256" alt="pedropedropedropedrope" />
                             <h3 className="mb-1 text-2xl font-bold tracking-tight text-white">
                                 xilliam
                             </h3>
@@ -258,7 +258,7 @@ export default function ContactUs() {
                             </ul>
                         </div>
                         <div className="glass p-6 transition duration-500 hover:scale-110 text-center text-gray-500 dark:text-gray-400">
-                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/a_359603c62a899bfd8f0e33728b9c9e10.gif?size=80" alt="pedropedropedropedrope" />
+                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/ef2fe1285680a4b217aee7f37ea22f09.webp?size=256" alt="pedropedropedropedrope" />
                             <h3 className="mb-1 text-2xl font-bold tracking-tight text-white">
                                 xilliam
                             </h3>
@@ -277,7 +277,7 @@ export default function ContactUs() {
                             </ul>
                         </div>
                         <div className="glass p-6 transition duration-500 hover:scale-110 text-center text-gray-500 dark:text-gray-400">
-                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/a_359603c62a899bfd8f0e33728b9c9e10.gif?size=80" alt="pedropedropedropedrope" />
+                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/ef2fe1285680a4b217aee7f37ea22f09.webp?size=256" alt="pedropedropedropedrope" />
                             <h3 className="mb-1 text-2xl font-bold tracking-tight text-white">
                                 xilliam
                             </h3>
@@ -296,7 +296,7 @@ export default function ContactUs() {
                             </ul>
                         </div>
                         <div className="glass p-6 transition duration-500 hover:scale-110 text-center text-gray-500 dark:text-gray-400">
-                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/a_359603c62a899bfd8f0e33728b9c9e10.gif?size=80" alt="pedropedropedropedrope" />
+                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/ef2fe1285680a4b217aee7f37ea22f09.webp?size=256" alt="pedropedropedropedrope" />
                             <h3 className="mb-1 text-2xl font-bold tracking-tight text-white">
                                 xilliam
                             </h3>
@@ -315,7 +315,7 @@ export default function ContactUs() {
                             </ul>
                         </div>
                         <div className="glass p-6 transition duration-500 hover:scale-110 text-center text-gray-500 dark:text-gray-400">
-                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/a_359603c62a899bfd8f0e33728b9c9e10.gif?size=80" alt="pedropedropedropedrope" />
+                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/ef2fe1285680a4b217aee7f37ea22f09.webp?size=256" alt="pedropedropedropedrope" />
                             <h3 className="mb-1 text-2xl font-bold tracking-tight text-white">
                                 xilliam
                             </h3>
@@ -334,7 +334,7 @@ export default function ContactUs() {
                             </ul>
                         </div>
                         <div className="glass p-6 transition duration-500 hover:scale-110 text-center text-gray-500 dark:text-gray-400">
-                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/a_359603c62a899bfd8f0e33728b9c9e10.gif?size=80" alt="pedropedropedropedrope" />
+                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/ef2fe1285680a4b217aee7f37ea22f09.webp?size=256" alt="pedropedropedropedrope" />
                             <h3 className="mb-1 text-2xl font-bold tracking-tight text-white">
                                 xilliam
                             </h3>
@@ -353,7 +353,7 @@ export default function ContactUs() {
                             </ul>
                         </div>
                         <div className="glass p-6 transition duration-500 hover:scale-110 text-center text-gray-500 dark:text-gray-400">
-                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/a_359603c62a899bfd8f0e33728b9c9e10.gif?size=80" alt="pedropedropedropedrope" />
+                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/ef2fe1285680a4b217aee7f37ea22f09.webp?size=256" alt="pedropedropedropedrope" />
                             <h3 className="mb-1 text-2xl font-bold tracking-tight text-white">
                                 xilliam
                             </h3>
@@ -372,7 +372,7 @@ export default function ContactUs() {
                             </ul>
                         </div>
                         <div className="glass p-6 transition duration-500 hover:scale-110 text-center text-gray-500 dark:text-gray-400">
-                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/a_359603c62a899bfd8f0e33728b9c9e10.gif?size=80" alt="pedropedropedropedrope" />
+                            <img className="mx-auto mb-4 w-36 h-36 rounded-full" src="https://cdn.discordapp.com/avatars/810067743084642304/ef2fe1285680a4b217aee7f37ea22f09.webp?size=256" alt="pedropedropedropedrope" />
                             <h3 className="mb-1 text-2xl font-bold tracking-tight text-white">
                                 xilliam
                             </h3>
