@@ -2,6 +2,8 @@
 
 import Footer from "@/components/footer";
 import Projects from "@/components/projects";
+import About from "@/components/about";
+import Scrollhint from "@/components/scrollhint";
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from 'react';
@@ -38,13 +40,19 @@ export default function Home() {
                       Contact us
                   </Link>
                   <a onClick={coolButton} href="#" className="inline-flex justify-center items-center py-3 px-5 text-lg font-medium text-center text-white rounded-lg border border-gray-300 hover:bg-gray-100 hover:text-gray-900 dark:hover:text-white dark:border-gray-700 dark:hover:bg-gray-700 hover:shadow-md">
-                      super cool button plz press me
-                  </a>  
+                      More About Us
+                  </a>
+              </div>
+              <br />
+              <div className="inline-flex justify-center lg:py-16 lg:px-12">
+                    <Scrollhint />
               </div>
           </div>
       </section>
 
       <Projects />
+      <hr />
+      <About />
       <hr />
       <Footer />
     </main>
