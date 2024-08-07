@@ -1,7 +1,3 @@
-import { link } from "fs";
-import Link from "next/link";
-import { UrlObject } from "url";
-
 // please for the love of god or whatever u believe in; ADD TABS, ITS HELL TO ADD THEM LATER
 
 export default function About() {
@@ -17,11 +13,11 @@ export default function About() {
                 <br />
 
                 <div className="grid text-center">
-                        <p style={{fontSize: 20}}>Hi and thanks for visiting our site</p>
+                        <p style={{fontSize: 20}}>Hi and thanks for visiting our site
                         <br />
-                        <p style={{fontSize: 20}}>We are Hassy Team™ and we are a small developer team from Finland, that loves Demos, Websites and everything in between. We are a group of young developers with differing experiences in coding. We create our projects for fun and we hope that shows. You can see the projects we've made above. If you wanna contact as, you can email us at hey@hassyteam.com or checkout our contact page here.</p>
+                        We are Hassy Team™ and we are a small developer team from Finland, that loves Demos, Websites and everything in between. We are a group of young developers with differing experiences in coding. We create our projects for fun and we hope that shows. You can see the projects we've made above. If you wanna contact as, you can email us at hey@hassyteam.com or checkout our contact page here.
                         <br />
-                        <p style={{fontSize: 20}}>Thanks for visitng :]</p>
+                        Thanks for visitng :]</p>
                 </div>
 
             </div>
